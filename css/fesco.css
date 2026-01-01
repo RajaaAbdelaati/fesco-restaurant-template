@@ -224,7 +224,7 @@ header .container nav ul li:hover a {
   margin-top: 40px;
   font-family: "Vollkorn", serif;
 }
-.landing .landing-content .landing-text h2 {
+.landing .landing-content .landing-text h1 {
   font-family: "Yesteryear", cursive;
   font-size: 3.5rem;
   font-weight: normal;
@@ -238,12 +238,12 @@ header .container nav ul li:hover a {
   .landing .landing-content .landing-text {
     margin-top: 30px;
   }
-  .landing .landing-content .landing-text h2 {
+  .landing .landing-content .landing-text h1 {
     font-size: 45px;
     line-height: 1.5;
   }
 }
-.landing .landing-content .landing-text h2 + p {
+.landing .landing-content .landing-text h1 + p {
   margin: 0 0 40px;
   font-size: 20px;
 }
